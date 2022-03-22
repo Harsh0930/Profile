@@ -1,0 +1,67 @@
+body{
+    background-image: url('images/bg-pic.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+}
+.navbar-brand{
+    font-size: 2em;
+    font-weight: 700;
+    font-family: 'Caveat' , cursive;
+    letter-spacing: 2px;
+    padding:5px;
+}
+.navbar-nav{
+    font-size: 20px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+#profile-img{
+    margin: 20px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.content{
+    margin: 20px;
+    color: antiquewhite;
+}
+#name{
+    font-family: 'Playfair Display SC', serif;
+    font-weight:500;
+    letter-spacing: 1.5px;
+    font-size: 40px;
+}
+h6{
+    letter-spacing: 2px;
+}
+#project-ex{
+    font-weight: bold;
+}
+#edu-qual{
+    font-weight: bold;
+}
+footer{
+    letter-spacing: 2.5px;
+    font-size: 12px;
+    font-weight:500;
+    color: grey;
+}
+h4{
+    font-family: 'Playfair Display SC', serif;
+    font-weight:500;
+    letter-spacing: 1.5px;
+    font-size: 30px;
+}
+i{
+    color: white;
+    size: 15px;
+}
+#icon_link{
+    text-decoration: none;
+    color: antiquewhite;
+}
